@@ -24,7 +24,7 @@ I am a multidisciplinary engineer with a strong focus on robotics, embedded syst
 
 ## Technologies & Tools
 - **Programming Languages**: Python, C++, MATLAB
-- **Libraries & Frameworks**: PyTorch, OpenCV, ZeroMQ
+- **Libraries & Frameworks**: PyTorch, OpenCV
 - **Hardware**: Raspberry Pi, ADNS-3080, ICM-20948, Mecanum wheels
 - **Simulation**: Abaqus, ROS
 
